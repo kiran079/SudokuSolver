@@ -1,0 +1,40 @@
+﻿  Game.cpp
+  Main.cpp
+  Solver.cpp
+  Sudoku.cpp
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(8,106): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(8,100): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(182,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(184,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(190,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(192,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(211,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(211,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(220,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Kiran\sfmlP\SudokuSolver\SudokuSolver\Sudoku.cpp(220,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  SudokuSolver.vcxproj -> C:\Kiran\sfmlP\SudokuSolver\Debug\SudokuSolver.exe
